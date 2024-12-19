@@ -10,7 +10,8 @@ How to use:
     3. npm run dev
 or: 
   
-    1. just go to https://whack-a-mole-8917e.web.app
+    1. just go thttps://whack-a-mole-8917e.web.app
+https://whack-a-mole-8917e.web.app
 
 i built this site using devcycle and three variables: 
     
